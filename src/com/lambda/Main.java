@@ -1,6 +1,6 @@
-package com.lamda;
+package com.lambda;
 
-import com.lamda.interfaces.BankInterestCalculate;
+import com.lambda.interfaces.BankInterestCalculate;
 
 public class Main{
     public static void main(String[] args) {

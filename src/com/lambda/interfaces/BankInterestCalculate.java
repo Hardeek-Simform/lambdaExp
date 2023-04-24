@@ -1,4 +1,4 @@
-package com.lamda.interfaces;
+package com.lambda.interfaces;
 
 @FunctionalInterface
 public interface BankInterestCalculate {
